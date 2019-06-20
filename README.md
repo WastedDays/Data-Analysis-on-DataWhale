@@ -1,3 +1,2 @@
 # Data-Analysis-on-DataWhale
-Task 1 homework.
-This is a document for data analysis course on DataWhale.
+这是 DataWhale 的**数据分析**课程的一个作业。
